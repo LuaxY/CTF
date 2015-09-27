@@ -1,1 +1,3 @@
-ssh bandit18@bandit.labs.overthewire.org cat readme 
+```
+ssh bandit18@bandit.labs.overthewire.org cat readme
+```

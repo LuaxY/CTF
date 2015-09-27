@@ -1,3 +1,4 @@
+```
 mkdir /tmp/luax && cp data.txt /tmp/luax && cd /tmp/luax
 xxd -r data.txt > data.bin
 file data.bin
@@ -20,3 +21,4 @@ file data8.bin
 zcat data8.bin > data9.bin
 file data9.bin
 cat data9.bin
+```

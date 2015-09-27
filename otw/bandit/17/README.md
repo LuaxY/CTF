@@ -1,1 +1,3 @@
-diff passwords.old passwords.new 
+```
+diff passwords.old passwords.new
+```
